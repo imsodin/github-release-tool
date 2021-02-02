@@ -1,4 +1,4 @@
-module github.com/calmh/grt
+module github.com/imsodin/grt
 
 require (
 	github.com/alecthomas/kingpin v2.2.6+incompatible
